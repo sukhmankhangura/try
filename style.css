@@ -1,0 +1,37 @@
+* {margin:0;padding:0}
+.inner_copy {border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+.fleft {float:left}
+.fright  {float:right}
+.fcenter {float:none;margin:0 auto;width:96%}
+.fclear {clear:both}
+body {font-family:Arial,Helvetica,sans-serif;font-size:12px;background:#000;color:#838382}
+img {border:0}
+#container {width:1000px;background:#3a3a3a url(images/siteBackground.jpg) repeat-x left top;margin:0 auto;border-left:1px solid #fec75a;border-right:1px solid #fec75a} 
+#header {background:#ddd;margin:0 24px;width:952px;height:305px;background:url(images/headerPic.jpg) no-repeat left top}
+.logo {text-align:center;width:280px}
+.logo h1 {margin:0;color:#fff;font-size:36px} 
+.logo span {margin:0;color:#e5b23f}
+#sidebar1 {float:left;width:476px;margin-left:24px}
+#sidebar1 p {margin:10px 40px 0 0}
+#sidebar1 h2 {font-size:24px;color:#e5b23f}
+#sidebar1 a {color:#e5b23f;text-decoration:none}
+#sidebar1 a:hover {color:#e5b23f;text-decoration:underline} 
+#mainContent {margin:0 24px 10px 476px;padding:20px;background:#838382;color:#fff} 
+#mainContent h2 {font-size:24px;color:#000}
+#mainContent p {margin:10px 0}
+#mainContent .templatePreview {float:left;margin:0 20px 20px 0}
+#mainContent a {color:#fff550;text-decoration:none;font-weight:bold}
+#mainContent a:hover {color:#fff550;text-decoration:underline;font-weight:bold} 
+#footer {background:#000;height:80px}
+.ftt {float:left;margin-left:24px}
+.rss {float:right;margin-right:24px}
+.copyright {text-align:center;padding-top:25px}
+#footer p {padding:11px}
+#footer a {color:#e5b23f;text-decoration:none}
+#footer a:hover {color:#e5b23f;text-decoration:underline} 
+.clearfloat {clear:both;height:0;font-size:1px;line-height:0}
+/* begin main menu */
+#navlist {margin-left:0;padding-left:0;list-style:none}
+#navlist li {padding-left:20px;background:url(images/p.jpg) no-repeat left 3px;background-repeat:no-repeat;margin:7px 0}
+#navlist li a {font-size:18px;color:#e5b23f;text-decoration:none}
+#navlist li a:hover {font-size:18px;color:#000;text-decoration:none;background:#ccc}
